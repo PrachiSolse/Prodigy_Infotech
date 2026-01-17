@@ -1,4 +1,4 @@
-# Prodigy_Infotech
+# Prodigy_Infotech_1
 # Task 01 – Data Visualization
 
 This project is part of **Prodigy InfoTech – Data Science Internship**.
